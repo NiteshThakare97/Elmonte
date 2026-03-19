@@ -278,7 +278,7 @@ svg) {
 }
 
 .elementor-102 .elementor-element.elementor-element-f81430e .ekit_social_media {
-    text-align: left;
+    text-align: center;
 }
 
 .elementor-102 .elementor-element.elementor-element-f81430e .ekit_social_media>li>a {
@@ -302,6 +302,7 @@ svg) {
 
 .elementor-102 .elementor-element.elementor-element-f81430e .ekit_social_media>li>a i {
     font-size: 18px;
+    padding-top: 3px;
 }
 
 .elementor-102 .elementor-element.elementor-element-f81430e .ekit_social_media>li>a svg {
@@ -853,7 +854,7 @@ svg) {
 
 @media(min-width:768px) {
     .elementor-102 .elementor-element.elementor-element-4d4d4b0 {
-        width: 30%;
+        width: 100%;
     }
     .elementor-102 .elementor-element.elementor-element-9e94981 {
         width: 70%;
